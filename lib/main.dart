@@ -194,4 +194,4 @@ class RepairStation {
       player.x = math.Random().nextInt(boundaryX * 2 +1) - boundaryX;
       player.y = math.Random().nextInt(boundaryY * 2 +1) - boundaryY;
     }
-   }
+   } was geht ab 
